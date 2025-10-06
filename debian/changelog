@@ -1,3 +1,9 @@
+killbots (4:21.08.0-1deepin1) unstable; urgency=medium
+
+  * Fix missing includes that prevents this package to be built
+
+ -- sisungo <sisungo@icloud.com>  Mon, 6 Oct 2025 15:22:01 +0800
+
 killbots (4:21.08.0-1) unstable; urgency=medium
 
   [ Norbert Preining ]

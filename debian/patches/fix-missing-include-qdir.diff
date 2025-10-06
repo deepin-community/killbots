@@ -1,0 +1,10 @@
+--- killbots-21.08.0.orig/src/mainwindow.cpp
++++ killbots-21.08.0/src/mainwindow.cpp
+@@ -33,6 +33,7 @@
+ 
+ #include "killbots_debug.h"
+ #include <QTimer>
++#include <qdir.h>
+ 
+ Killbots::MainWindow::MainWindow(QWidget *parent)
+     : KXmlGuiWindow(parent),
